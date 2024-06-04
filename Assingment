@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="css/style.css" />
   <head>
 
-    <title> Amia Nuts </title>
+    <title> Amia Nut </title>
 
     <!-- As it is a void element(it is an empty element), it has no content
     the start tag must be present and the end tag must not be present. -->
